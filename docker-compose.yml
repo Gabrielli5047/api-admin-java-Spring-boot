@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  api:
+    image: frankpercicotte/api-admin
+    environment:
+      - DATABASE_USER
+      - DATABASE_PASSWORD
+      - DATABASE_URL_ADMIN
+    ports:
+      - "8085:8085"

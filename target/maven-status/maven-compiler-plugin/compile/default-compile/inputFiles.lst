@@ -1,0 +1,16 @@
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/security/EntryPoint.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/repository/AdministratorDAO.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/service/AdministratorService.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/security/SecurityConfig.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/model/Administrator.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/dto/AdministratorLoginDTO.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/security/Filters.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/security/Encrypt.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/security/Token.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/security/TokenUtils.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/controller/AdministratorController.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/Group5Application.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/service/IAdministratorService.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/dto/TokenDTO.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/controller/LoginController.java
+/Users/borges.gabrielli/Documents/cuscuz/api-admin/src/main/java/br/com/desafio2/ilab/group5/dto/AdministradorBasicInfDTO.java
